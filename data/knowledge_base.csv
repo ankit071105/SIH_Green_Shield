@@ -1,0 +1,8 @@
+disease,stage,severity_threshold,pesticide_ai_name,mode_of_action,frac_code,formulation,dose_per_litre,preharvest_interval,notes
+healthy,any,0,none,none,NA,NA,0,NA,No spray required
+leaf_blight,early,0.10,copper_oxy_52_WP,Multi-site,M1,WP,2.5,7,Preventive treatment
+leaf_blight,late,0.25,azoxystrobin_23_SC,QoI,11,SC,0.8,3,Curative; rotate FRAC
+powdery_mildew,early,0.08,wettable_sulfur_80_WP,Multi-site,M2,WP,2.0,0,Apply at cool hours
+powdery_mildew,late,0.20,tebuconazole_25_EC,DMI,3,EC,1.0,7,Alternate chemistry
+leaf_spot,early,0.10,chlorothalonil_75_WP,Multi-site,M5,WP,2.0,7,Use PPE
+leaf_spot,late,0.25,propiconazole_25_EC,DMI,3,EC,1.0,7,Rotate chemistries
